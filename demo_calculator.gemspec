@@ -13,6 +13,8 @@ Gem::Specification.new do |spec|
   spec.homepage = "https://github.com/shivam091/demo_calculator"
   spec.required_ruby_version = ">= 2.6.0"
 
+  spec.files = ["lib/demo_calculator.rb"]
+
   spec.metadata["allowed_push_host"] = "https://rubygems.org/"
 
   spec.metadata["homepage_uri"] = spec.homepage
